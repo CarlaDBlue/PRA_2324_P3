@@ -6,7 +6,7 @@ using namespace std;
 
 template <typename V>
 
-class Dict()
+class Dict
 {
 	public: 
 		void insert(string key, V value);
